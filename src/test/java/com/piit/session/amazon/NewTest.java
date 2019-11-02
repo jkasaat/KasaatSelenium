@@ -24,6 +24,9 @@ public class NewTest {
 	  Thread.sleep(6000);
 	  ui.bt();
 	  
+	  System.out.println("This is maven project.");
+	  
+	  System.out.println("This is a second commit");
   }
   @BeforeClass
  // @Parameters("browser")
